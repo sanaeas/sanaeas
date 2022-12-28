@@ -21,10 +21,17 @@
 <img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 
 <br />
-<br />
 
 ---
 
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Sana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanaeas&hide=stars&count_private=true&show_icons=true&theme=radical">
+
+</details>
 
 
 [website]: https://sanae-as.web.app/
