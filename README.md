@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on learning new technologies and stay up to date with the latest industry trends
 - 🌱 I’m currently learning Redux, Vue, NextJS 
-- 🤝 I’m looking to gain more experience in Front End Developer
+- 🤝 I’m looking to gain more experience in Front End Development
 - 🥅 2023 Goals: Learn MERN Stack
 - 👨‍💻 All of my projects are available at [SanaeAs][website]
 
